@@ -12,3 +12,6 @@ def sum_double(a, b):
     return ((a+b)*2)
   else:
     return (a+b)
+  
+
+print("We have resolved the coding bat!")
